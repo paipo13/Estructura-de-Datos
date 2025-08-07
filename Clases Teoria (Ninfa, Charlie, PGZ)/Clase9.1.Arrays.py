@@ -39,7 +39,7 @@ vectordato2 = np.arange(0,9).reshape(3,3) #Obs. va a crear una matriz con un sol
 print(vectordato2)
 
 
-#6. array de una n (en este caso 5) cant de elementos entre 0 y x (en este caos 8)
+#6. array de una n (en este caso 5) cant de elementos entre 0 y x (en este caso 8)
 vectoricito = np.random.randint(8,size=5)
 print(vectoricito)
 
